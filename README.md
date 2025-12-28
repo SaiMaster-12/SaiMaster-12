@@ -57,23 +57,23 @@
 ---
 
 ## Pinned Projects
-- ** Sai Kiran Portfolio**
+- **Sai Kiran Portfolio**:
   A refined, Mac-style portfolio interface developed to present personal work, technical expertise, and career highlights in an engaging web-based format. The project emphasizes clean design, smooth interactions, and a visually distinctive layout to deliver a standout online presence.
   
-- ** Pothole Detection System**  
+- **Pothole Detection System**:  
   A real-time pothole detection system using **YOLOv8** and **Raspberry Pi 4** that alerts road authorities via email.
 
-- ** Air Quality Monitoring System**
+- **Air Quality Monitoring System**:
   An IoT-based system leveraging Arduino and ESP8266 to monitor environmental parameters, transmit data to Firebase, and provide real-time analytics, predictive insights, and automated alerts through a Flask web application.
   
-- ** Serverless Feedback Management System (AWS)**  
+- **Serverless Feedback Management System (AWS)**:  
   A cloud-native, serverless application for collecting and managing user feedback, offering scalable performance, seamless data handling, and real-time notifications, with a highly accessible front-end.
 
-- ** Fraudetect-AI**  
-  AI-powered system to detect and prevent fraudulent merchants in e-commerce platforms.
+- **Fraudetect-AI**:  
+  An AI-powered system designed to detect, analyze, and prevent fraudulent merchants across e-commerce platforms by monitoring transactional behavior and merchant activities in real time, thereby enhancing platform security and ensuring a safe, trustworthy online marketplace.
 
-- ** Smart Send (Android App)**  
-  Hybrid messaging application ensuring message delivery via **internet or cellular network** with Firebase integration.
+- **SafeBuild-AI**  
+  SafeBuild-AI is an AI-powered real-time safety monitoring system that detects PPE violations using YOLOv8. It automatically identifies when a person is not wearing a hardhat and sends instant email alerts with image evidence to ensure workplace safety compliance.
 
 ---
 
